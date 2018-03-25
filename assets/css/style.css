@@ -1,0 +1,37 @@
+/* 
+primary (blue): #01579b,
+primary-light: #4f83cc,
+primary-dk: #002f6c,
+secondary (grn): #66bb6a,
+secondary-light: #98ee99,
+secondary-dk: #338a3e
+*/
+
+button {
+  margin: 0 15px;
+  background-color: #66bb6a;
+  color: white;
+}
+
+.navbar {
+  background-color: #002f6c;
+  color: white;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.inline {
+  float: none;
+  display: inline-block;
+  margin: 10px 10px 40px 10px;
+}
+
+.button-div {
+  border: none;
+  padding: 30px;
+  /* background-color: #01579b;  */
+  position: relative;
+  margin: 110px 0 0 0;
+}
